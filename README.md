@@ -1,6 +1,9 @@
 # Gintronic
 
 <p align="center">
+<img src="https://github.com/Mark2Mark/gintronic/blob/master/Gintronic-MarkFroemberg%2002%2001%20Special.png" alt="Gintronic 1" height="">
+</p>
+<p align="center">
 <img src="https://github.com/Mark2Mark/gintronic/blob/master/Gintronic_Specimen_Python_DARK.png" alt="Gintronic 1" height="">
 </p>
 
