@@ -13,7 +13,7 @@ This is a public repository where users can open issues for the monospaced font 
 
 ### Installation
 
-**Mac**
+#### Mac
 Normally you just copy the font file(s) into your System Fonts Folder `/Library/Fonts/`.
 It is possible to put subfolders into that folder, I often have a folder for each font family in there.
 After putting the fonts there, they are immediately available, but some apps need a restart.
