@@ -10,6 +10,21 @@
 This is a public repository where users can open issues for the monospaced font [Gintronic](https://markfromberg.com/projects/gintronic/) by Mark Frömberg. 
 
 ## How to use
-- If you have any issues that are not covered by the issues in this repository, please open a new one.
-- Please be very specific and precise.
+
+### Installation
+
+**Mac**
+Normally you just copy the font file(s) into your System Fonts Folder `/Library/Fonts/`.
+It is possible to put subfolders into that folder, I often have a folder for each font family in there.
+After putting the fonts there, they are immediately available, but some apps need a restart.
+
+You can also use a font manager like Font Book, but honestly, that is not necessary at all.
+
+### Issues, Questions, Discussions
+- I am currently feeding the [discussions board](https://github.com/Mark2Mark/gintronic/discussions), which is the new place for everything that is not necessarily an issue.
+- If you have any issues that are not covered by the [issues](https://github.com/Mark2Mark/gintronic/issues) in this repository, please open a new one.
+
+### OpenType Features
+You can activate or deactivate several font features to your likings.
+A growing collection of how to do that in several IDEs can be found [here](https://github.com/Mark2Mark/gintronic/discussions/11)
 
