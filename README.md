@@ -28,3 +28,9 @@ You can also use a font manager like Font Book, but honestly, that is not necess
 You can activate or deactivate several font features to your likings.
 A growing collection of how to do that in several IDEs can be found [here](https://github.com/Mark2Mark/gintronic/discussions/11)
 
+### TODO
+
+- [ ] Add documentation for OT Features. List of available features, how to use ...  
+  - [ ] Add here
+  - [ ] Add to Specimen PDF
+
